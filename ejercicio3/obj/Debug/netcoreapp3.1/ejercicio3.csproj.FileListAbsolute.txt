@@ -1,0 +1,13 @@
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.exe
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.deps.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\bin\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.AssemblyInfo.cs
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercicio3\obj\Debug\netcoreapp3.1\ejercicio3.genruntimeconfig.cache

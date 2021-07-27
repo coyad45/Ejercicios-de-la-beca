@@ -1,0 +1,13 @@
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.AssemblyInfo.cs
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.exe
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.deps.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.runtimeconfig.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\bin\Debug\netcoreapp3.1\ejercixiosguia4.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\ejercixiosguia4\obj\Debug\netcoreapp3.1\ejercixiosguia4.genruntimeconfig.cache

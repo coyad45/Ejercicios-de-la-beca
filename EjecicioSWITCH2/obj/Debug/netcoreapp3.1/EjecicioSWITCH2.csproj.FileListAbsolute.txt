@@ -1,0 +1,13 @@
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.exe
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.deps.json
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.runtimeconfig.json
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\bin\Debug\netcoreapp3.1\EjecicioSWITCH2.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.AssemblyInfo.cs
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.dll
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.pdb
+C:\Users\coyad\source\repos\ejercixiosguia4\EjecicioSWITCH2\obj\Debug\netcoreapp3.1\EjecicioSWITCH2.genruntimeconfig.cache
